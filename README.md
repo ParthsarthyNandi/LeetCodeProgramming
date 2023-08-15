@@ -1,3 +1,3 @@
 # LeetCodeCProgramming
 
-This Repository cantains all the Leet code problems in C and their solutions.
+Leet Code C programming practice by Me. 
