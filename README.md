@@ -1,4 +1,4 @@
-# LeetCodeCProgramming
+# Leet Code Programming
 
 Leet Code programming practice by Me.
 
