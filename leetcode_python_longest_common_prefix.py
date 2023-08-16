@@ -13,6 +13,12 @@ class Solution:
             return "Empty list"
         else:
             shortest_str = min(strs,key=len)
+
+            # So enumerate helps us to iterate with the index and the value, here i will be the index and char will be the value at i.
+
+            # first for loop will iterate over the shortest string characters that is flow.
+
+            # Second for loop will iterate over the elements in strs list. where the if statement inside the for loop will compare the letters
             for i, char in enumerate(shortest_str):
                 for other in strs:
                     if other[i] != char:
